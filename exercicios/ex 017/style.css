@@ -1,0 +1,10 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3em;          /*medidas absolutas:cm, mm, in(polegadas/inch), px, pt, pq
+    medidas relativas: em, ex, rem, vw, vh, %. 16 pixels geralmente equivalem a 1 'em'*/
+    font-weight: bolder;
+    font-style: italic;
+    /*SHORTHAND:
+    font: font-style font-weigth font-size font family*/
+    font: italic bold 1em sans-serif;
+}
