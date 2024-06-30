@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) {
+    #menuh{
+        display: none;
+    }
+    menu{
+        display: block;
+    }
+    menu li{
+        display: inline-block;
+    }
+    
+}
